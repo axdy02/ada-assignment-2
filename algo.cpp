@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <ctime>
 using namespace std;
 
 int linearSearch(vector<int>& arr,int value){
